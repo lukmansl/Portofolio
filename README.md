@@ -2,10 +2,9 @@
 - [Tentang Saya](#tentang-saya)
 - [CV](#cv)
 - [Kemampuan](#skills)
-- [Aplikasi](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+- [Contoh Pekerjaan Saya](#examples-of-my-work)
+  * [Uji kasus dan bekerja di PT.STI](#Uji-kasus-dan-bekerja-di-PT.STI)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
@@ -16,3 +15,22 @@ Saya adalah orang yang berpikiran positif yang memiliki kemauan untuk berkembang
 Saya mendapatkan gelar Master dari Sekolah Tinggi Informasi Managemen Informasi Komputer AKAKOM Yogykarta. Dan telah bekerja di perusahaan Swasta menjadi sebagai tester manual atau Quality Ansurance (QA) selama 7 tahun.
 Sekarang, saya ingin mengembangkan kemampuan saya dan sambil menggali ilmu beserta pengalaman dibidang yang sama dengan tools/testing otomatis. Saat ini, saya sedang intensif mempelajari testing otomatis dan mengulang kembali menjadi IT Suport pelajaran sewaktu SMK, dengan mengikuti panduan dan kursus online yang dibuat untuk tujuan pembelajaran.
 Saya akan sangat senang menerapkan pengetahuan yang diperoleh untuk menguji produk operasional dan mendapatkan pengalaman langsung. Ini adalah langkah penting dalam tujuan karir saya saat ini untuk menjadi penguji perangkat lunak tingkat menengah.
+
+## CV
+Anda dapat mengunduh CV saya ditautan berikut [Gdrive saya](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+
+## Kemampuan
+
+Untuk contoh pekerjaan saya dijelaskan pada bagian [Contoh pekerjaan saya](#contoh-pekerjaan-saya).
+
+__Pengujian manual__
+  * dapat melakukan pengujian fungsional dan kegunaan aplikasi web secara manual
+  * memperoleh pengalaman langsung dengan menguji aplikasi yang dibuat untuk tujuan keungan pemda
+
+## Examples of my work
+
+### Uji kasus dan bekerja di PT.STI
+   * Uji kasus perbaikan rumus perhitungan denda [gambar di redmine](isikan link gambar1)
+   * Uji kasus pengembangan aplikasi monitoring [gambar di redmine](isikan link gambar2)
+   * Uji kasus pengembangan aplikasi keunagan/pendapatan [gambar di redmine](isikan link gambar3)
+   * Konfigurasi setting server linux (dalam bahasa Indonesia). Periksa [dokumen Google Sheets di sini](isikan link setup linux )
