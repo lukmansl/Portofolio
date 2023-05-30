@@ -17,7 +17,7 @@ Sekarang, saya ingin mengembangkan kemampuan saya dan sambil menggali ilmu beser
 Saya akan sangat senang menerapkan pengetahuan yang diperoleh untuk menguji produk operasional dan mendapatkan pengalaman langsung. Ini adalah langkah penting dalam tujuan karir saya saat ini untuk menjadi penguji perangkat lunak tingkat menengah.
 
 ## CV
-Anda dapat mengunduh CV saya ditautan berikut [Gdrive saya](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+Anda dapat mengunduh CV saya ditautan berikut [Gdrive saya](https://drive.google.com/file/d/1R2z8F2lhX1DYD8vydbY_QeSc7ezAvAtE/view?usp=sharing)
 
 ## Kemampuan
 
