@@ -1,7 +1,7 @@
 # Portofolio
 - [Tentang Saya](#tentang-saya)
 - [CV](#cv)
-- [Kemampuan](#skills)
+- [Kemampuan](#kemampuan)
 - [Courses](#courses)
 - [Contoh Pekerjaan Saya](#examples-of-my-work)
   * [Uji kasus dan bekerja di PT.STI](#Uji-kasus-dan-bekerja-di-PT.STI)
