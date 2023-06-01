@@ -4,7 +4,7 @@
 - [Kemampuan](#kemampuan)
 - [Courses](#courses)
 - [Contoh Pekerjaan Saya](#examples-of-my-work)
-  * [Uji kasus dan bekerja di PT.STI](#Uji-kasus-dan-bekerja-di-PT.STI)
+  * [Uji kasus dan bekerja di PT.STI](#uji-kasus-dan-bekerja-di-PT.STI)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
