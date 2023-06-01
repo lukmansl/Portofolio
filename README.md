@@ -21,7 +21,7 @@ Anda dapat mengunduh CV saya ditautan berikut [Gdrive saya](https://drive.google
 
 ## Kemampuan
 
-Untuk contoh pekerjaan saya dijelaskan pada bagian [Contoh pekerjaan saya](#contoh-pekerjaan-saya).
+Untuk contoh pekerjaan saya dijelaskan pada bagian [Contoh pekerjaan saya](#contoh-pekerjaan-saya)
 
 __Pengujian manual__
   * dapat melakukan pengujian fungsional dan kegunaan aplikasi web secara manual
