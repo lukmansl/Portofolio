@@ -3,8 +3,8 @@
 - [CV](#cv)
 - [Kemampuan](#kemampuan)
 - [Courses](#courses)
-- [Contoh Pekerjaan Saya](#examples-of-my-work)
-  * [Uji kasus dan bekerja di PT.STI](#uji-kasus-dan-bekerja-di-PT.STI)
+- [Contoh Pekerjaan Saya](#contoh-pekerjaan-saya)
+  * [Uji kasus dan bekerja di PT.STI](#uji-kasus-dan-bekerja-di-PT-.-STI)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
@@ -27,7 +27,7 @@ __Pengujian manual__
   * dapat melakukan pengujian fungsional dan kegunaan aplikasi web secara manual
   * memperoleh pengalaman langsung dengan menguji aplikasi yang dibuat untuk tujuan keungan pemda
 
-## Examples of my work
+## Contoh Pekerjaan Saya
 
 ### Uji kasus dan bekerja di PT.STI
    * Uji kasus perbaikan rumus perhitungan denda [gambar di redmine](https://drive.google.com/file/d/1gO3ImbB4CRduDAOdgTJea38YuIm9oEPy/view?usp=sharing)
