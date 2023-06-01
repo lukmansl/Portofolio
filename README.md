@@ -26,6 +26,16 @@ __Pengujian manual__
   * dapat melakukan pengujian fungsional dan kegunaan aplikasi web secara manual
   * memperoleh pengalaman langsung dengan menguji aplikasi yang dibuat untuk tujuan keungan pemda
 
+__Analis dan desain__
+  * memahai tentang alur fungsional produk, membuat diagram/alur proses produk, menulis kasus penggunaan
+  * dapat menerapkan alur dari produk, analisis nilai batas dan metode pengujian, penerapan untuk menghasilkan data masukan uji
+
+__Dokumentasi pengujian__
+  * Mampu menyiapkan laporan bug yang komprehensif dan memberikan laporan sesi yang terperinci
+
+__Database SQL__
+  *  
+
 ## Contoh Pekerjaan Saya
 
 ### Uji kasus dan bekerja di PT STI
