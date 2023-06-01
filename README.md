@@ -5,7 +5,6 @@
 - [Courses](#courses)
 - [Contoh Pekerjaan Saya](#contoh-pekerjaan-saya)
   * [Uji kasus dan bekerja di PT STI](#uji-kasus-dan-bekerja-di-PT-STI)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
