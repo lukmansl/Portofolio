@@ -32,8 +32,7 @@ __Pengujian manual__
 
 __Analis dan desain__
   * memahai tentang alur fungsional produk, membuat diagram/alur proses produk, menulis kasus penggunaan
-  * dapat menerapkan alur dari produk, analisis nilai batas dan metode pengujian, penerapan untuk menghasilkan data masukan uji
-
+  * dapat menerapkan alur dari produk, analisis nilai batas dan metode pengujian, penerapan untuk menghasilkan uji data masukan
 __Dokumentasi pengujian__
   * Mampu menyiapkan laporan bug yang komprehensif dan memberikan laporan sesi yang terperinci
 
