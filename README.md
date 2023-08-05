@@ -3,7 +3,7 @@
 - [CV](#cv)
 - [Kemampuan](#kemampuan)
 - [Aplikasi Tambahan](#aplikasi-tambahan)
-- [Courses](#courses)
+- [Pelatihan](#pelatihan)
 - [Contoh Pekerjaan Saya](#contoh-pekerjaan-saya)
   * [Uji kasus dan bekerja di PT STI](#uji-kasus-dan-bekerja-di-PT-STI)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
@@ -44,7 +44,16 @@ __Database SQL__
 
 __VirtualBox__
   * dapat mengatur dan mengoperasikan mesin virtual
-  
+
+## Pelatihan
+
+__INFORMATION SYSTEM AUDITING, CONTROLS, AND ASSURANCE__
+  * kursus online yang diselenggarakan oleh THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY 
+    [tautan kesertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+__WEBSITE DEVELOPMENT__
+  * kursus online yang diselenggarakan oleh kampus STMIK AKAKOM IN COLLABORATION WITH NIIT INDIA
+    [tautan kesertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+    
 ## Contoh Pekerjaan Saya
 
 ### Uji kasus dan bekerja di PT STI
