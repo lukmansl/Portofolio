@@ -6,7 +6,7 @@
 - [Pelatihan](#pelatihan)
 - [Contoh Pekerjaan Saya](#contoh-pekerjaan-saya)
   * [Uji kasus dan bekerja di PT STI](#uji-kasus-dan-bekerja-di-PT-STI)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
+  * [Diagram](#diagram)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
 
@@ -44,16 +44,18 @@ __Database SQL__
 
 __VirtualBox__
   * dapat mengatur dan mengoperasikan mesin virtual
+  * Dia-diagram digunakan untuk membuat diagram/rule aplikasi
+  * Pencil digunakan untuk membuat desain/mockup aplikasi
 
 ## Pelatihan
 
 __INFORMATION SYSTEM AUDITING, CONTROLS, AND ASSURANCE__
   * kursus online yang diselenggarakan oleh THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY 
-    [tautan ke sertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+    [tautan ke sertifikat](https://drive.google.com/file/d/1Wy19uPIFrOcSeOSRJwMrZF_j0LoT_L1I/view?usp=sharing)
     
 __WEBSITE DEVELOPMENT__
   * kursus online yang diselenggarakan oleh kampus STMIK AKAKOM IN COLLABORATION WITH NIIT INDIA
-    [tautan ke sertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+    [tautan ke sertifikat](https://drive.google.com/file/d/1dIu1KfKkumsBY2SkjTZjEt7Jz4WoCLtM/view?usp=sharing)
     
 ## Contoh Pekerjaan Saya
 
@@ -64,3 +66,7 @@ __WEBSITE DEVELOPMENT__
    * Uji kasus pengembangan aplikasi monitoring gambar di redmine [Gambar 1](https://drive.google.com/file/d/1-HiDoPebZJ26GMdGqkSENhzXJM5zLMLL/view?usp=sharing), [Gambar 2](https://drive.google.com/file/d/153Csip9HiuUQChNNt1V1rzvuTb28VveS/view?usp=sharing)
    * Uji kasus pengembangan aplikasi keunagan/pendapatan [gambar di redmine](https://drive.google.com/file/d/1JNsMVn8oTXg-12aNmGuIsP6otwYFkFKp/view?usp=sharing)
    * Konfigurasi setting server linux (dalam bahasa Indonesia). Periksa [dokumen Google dokumen di sini](https://docs.google.com/document/d/1nsE2O8BUycCyBt_VFVIWMGnU50biUbHBCwgWsOPTYHk/edit?usp=sharing0)
+
+### Diagram
+
+* Alur kerja aplikasi pendapatan [cek diagram](https://drive.google.com/file/d/1bR4hrMmXym4UjbVfHlCsxeZ8foJDLfoC/view?usp=sharing)
