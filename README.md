@@ -49,11 +49,11 @@ __VirtualBox__
 
 __INFORMATION SYSTEM AUDITING, CONTROLS, AND ASSURANCE__
   * kursus online yang diselenggarakan oleh THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY 
-    [tautan kesertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+    [tautan ke sertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
     
 __WEBSITE DEVELOPMENT__
   * kursus online yang diselenggarakan oleh kampus STMIK AKAKOM IN COLLABORATION WITH NIIT INDIA
-    [tautan kesertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
+    [tautan ke sertifikat](https://drive.google.com/drive/u/0/folders/11WnQf7LLMsGrvwTI_D2fjDhc2XAKAWbU)
     
 ## Contoh Pekerjaan Saya
 
