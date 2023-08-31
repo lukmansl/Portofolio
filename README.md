@@ -7,8 +7,6 @@
 - [Contoh Pekerjaan Saya](#contoh-pekerjaan-saya)
   * [Uji kasus dan bekerja di PT STI](#uji-kasus-dan-bekerja-di-PT-STI)
   * [Diagram](#diagram)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
 
 ## Tentang Saya
 Saya adalah orang yang berpikiran positif yang memiliki kemauan untuk berkembang atau mengembangkan diri. Saya suka berkomunikasi dengan orang lain dan memecahkan masalah.
